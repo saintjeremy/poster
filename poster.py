@@ -7,7 +7,7 @@ import requests
 import json
 
 user = 'saintjeremy'
-appcredo = 'TjaH pMe0 Fru1 jdUt E736 Q8Ob'  # clever redaction
+appcredo = 'REDACTED AND DEPRECATED'  # clever redaction
 url = 'https://blisstout.com/wp-json/wp/v2'
 
 # get token
